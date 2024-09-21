@@ -12,6 +12,10 @@
 
 body {
   background-color: #393E46;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 h1 {
@@ -37,5 +41,5 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+  font-weight: bold;
 }
